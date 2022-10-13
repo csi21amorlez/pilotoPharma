@@ -2,6 +2,9 @@
 
 namespace pilotoPharma.Models
 {
+    /*
+     * Util --> Clase en la que guardaremos las variables de inicio de sesion que necesitamos para entra en la base de datos
+     */
     public class Util
     {
         //	Declaramos las constantes y las inicializamos
